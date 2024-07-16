@@ -5,7 +5,7 @@ Route Event Task is a web application designed for managing user transactions re
 
 ### Table of Contents
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Credits](#credits)
 
 ---
 
