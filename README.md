@@ -1,6 +1,3 @@
-Your README file is coming along nicely! Here's a revised version incorporating your project details:
-
----
 
 ### Route Event Task
 
